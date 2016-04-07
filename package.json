@@ -1,0 +1,12 @@
+{
+  "name": "sample-app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app",
+    "deb": "node-debug app"
+  },
+  "dependencies": {
+    "axel": "~0.0.3"
+  }
+}
